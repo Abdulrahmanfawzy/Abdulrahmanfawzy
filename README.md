@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 </div>
 <!-- social icons -->
 <br/>
-<div style="display: flex;">
-  <a href="https://www.linkedin.com/in/abdulrahman-fawzy-70b843209/">
+<div style="display: flex; gap: 20px">
+  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/abdulrahman-fawzy-70b843209/">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="25px" />
-  </a>
+  </a>&nbsp;
   <a href="mailto: abdulrahman2d77@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="25px" />
-  </a>
+  </a>&nbsp;
   <a href="https://wa.me/+201554408494" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" width="25px" />
-  </a>
+  </a>&nbsp;
 </div>
 
 ## <div align="center">Hi there 👋 </div>
