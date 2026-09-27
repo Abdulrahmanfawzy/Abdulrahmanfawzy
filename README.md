@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a style="margin-right: 10px;" href="https://www.linkedin.com/in/abdulrahman-fawzy-70b843209/">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="25px" />
   </a>&nbsp;
-  <a href="mailto: abdulrahman2d77@gmail.com">
+  <a href="mailto: abdulrahman.fawzy25@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="25px" />
   </a>&nbsp;
   <a href="https://wa.me/+201554408494" target="_blank">
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ## <div align="center">Hi there 👋 </div>
 <h4>👩‍💻 About Me :</h4>
-<section>I am Abdulrahman Fawzy An enthusiastic Front-end React Developer from Egypt.</section>
+<section>I am Abdulrahman Fawzy An enthusiastic Fullstack MERN Developer from Egypt.</section>
 <br/>
-<li>🔭 Seeking hands of experience within a company to work as a front-end developer React js in an
+<li>🔭 Seeking hands of experience within a company to work as a fullstack developer in an
   innovative atmosphere.</li>
 <li>🌱 I am a good communicator and can build positive relationships with
   all levels of staff.</li>
